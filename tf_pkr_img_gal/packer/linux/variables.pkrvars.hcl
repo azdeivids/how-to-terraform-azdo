@@ -1,0 +1,6 @@
+location                    = "UK South"
+gallery_resource_group_name = "rg-tf-pkr-img-gal"
+gallery_name                = "tf_pkr_img_gal_s81rv5mq"
+image_name                  = "ubuntu1804_baseline"
+image_version               = "1.0.0"
+primary_region              = "UK South"
